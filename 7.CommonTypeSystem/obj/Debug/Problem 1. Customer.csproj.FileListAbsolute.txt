@@ -1,0 +1,6 @@
+F:\VisualStudio\C#\7.CommonTypeSystem\7.CommonTypeSystem\bin\Debug\7.CommonTypeSystem.exe.config
+F:\VisualStudio\C#\7.CommonTypeSystem\7.CommonTypeSystem\bin\Debug\7.CommonTypeSystem.exe
+F:\VisualStudio\C#\7.CommonTypeSystem\7.CommonTypeSystem\bin\Debug\7.CommonTypeSystem.pdb
+F:\VisualStudio\C#\7.CommonTypeSystem\7.CommonTypeSystem\obj\Debug\Problem 1. Customer.csprojResolveAssemblyReference.cache
+F:\VisualStudio\C#\7.CommonTypeSystem\7.CommonTypeSystem\obj\Debug\7.CommonTypeSystem.exe
+F:\VisualStudio\C#\7.CommonTypeSystem\7.CommonTypeSystem\obj\Debug\7.CommonTypeSystem.pdb

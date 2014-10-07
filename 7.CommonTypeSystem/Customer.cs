@@ -267,9 +267,9 @@ namespace _7.CommonTypeSystem
 
         public override int GetHashCode()
         {
-            return this.Name.GetHashCode ^   this.LastName.GetHashCode ^ 
-                   this.ID.GetHashCode ^  this.Address.GetHashCode ^ this.MobilePhone.GetHashCode ^
-                   this.Email.GetHashCode ^ this.Payments.GetHashCode ^ this.Type.GetHashCode;
+            return this.Name.GetHashCode() ^   this.LastName.GetHashCode() ^ 
+                   this.ID.GetHashCode() ^  this.Address.GetHashCode() ^ this.MobilePhone.GetHashCode() ^
+                   this.Email.GetHashCode() ^ this.Payments.GetHashCode() ^ this.Type.GetHashCode();
         }
 
         public int CompareTo(Customer customer)
